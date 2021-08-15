@@ -1,0 +1,100 @@
+﻿Rig Spec
+
+
+Rig: PC
+Hardware List:
+- Processor
+- RAM
+- Motherboard
+- Graphics Card
+- SSD
+- HDD
+- PSU
+- Case
+- Case Fans
+
+
+Version Numbering
+{major revision} . {minor revision}
+
+
+Major Revision -> CPU Change
+Minor Revision -> Others
+
+
+v1.0
+- Processor : Ryzen 5 1500X
+- RAM : 2 x Avexir Core Red 4 GB 2400 MHz
+- Motherboard : ASRock AB350M
+- Graphics Card : Zotac Geforce GTX 1060 3 GB
+- SSD : Galax Gamer L 120 GB
+- HDD : Seagate Barracuda 1TB
+- PSU : Antec VP600P
+- Case : Cube Gaming Luxe
+- Case Fans : 1x Cube Gaming Case Fan Red
+
+
+v1.1
+- Case Fan : 2x Mejec 120mm Case Fan Red
+
+
+v1.2
+- SSD : Adata XPG SX6000 Lite 256 GB M.2
+
+
+v1.3
+- RAM : 2 x Klevv Bolt X 8 GB 3200 MHz
+
+
+v1.4
+- Case : GarisLurus Standard Rev B W/C
+
+
+Maintainance
+Hardware : Every 6 months
+Software : Every 12 months
+
+
+Software Maintainance
+- Windows Clean Install
+Software List
+- Avira Antivirus
+- Mozilla Firefox
+- Google Chrome
+  - Adblock Plus
+  - Grammarly
+  - Sponsor Block
+  - Web Developer
+  - JS
+  - Video Downloader Professional
+  - Netflix 1080p
+  - Wappalyzer
+  - Popcorn
+- Python
+- Node.js
+- Java
+- GNU GCC Compiler
+- XAMPP
+- Visual Studio Code
+  - Python
+  - C/C++
+  - Code Runner
+  - Prettier
+  - Live Server
+  - Thunder Client
+  - vscode-icon-pack
+  - Palenight Theme / Just Black
+  - Quokka
+- VLC
+- Winrar
+- Office
+- Nitro PDF
+- Adobe Photoshop
+- Adobe Premiere Pro
+- Eclipse
+- WSL 2 Ubuntu
+- Windows Terminal
+- Power Level 10K (https://dev.to/anupa/beautify-your-windows-terminal-1la8)
+- Git
+- Steam
+- Games
