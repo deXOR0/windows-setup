@@ -94,7 +94,7 @@ Software List
 - Eclipse
 - WSL 2 Ubuntu
 - Windows Terminal
-- oh-my-post (https://dev.to/anupa/beautify-your-windows-terminal-1la8, https://www.powershellgallery.com/packages/oh-my-posh/2.0.487)
+- oh-my-posh (https://dev.to/anupa/beautify-your-windows-terminal-1la8, https://www.powershellgallery.com/packages/oh-my-posh/2.0.487)
 - Git
 - Steam
 - Games
