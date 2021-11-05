@@ -1,13 +1,7 @@
 {
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    // Add custom actions and keybindings to this array.
-    // To unbind a key combination from your defaults.json, set the command to "unbound".
-    // To learn more about actions and keybindings, visit https://aka.ms/terminal-keybindings
     "actions": 
     [
-        // Copy and paste are bound to Ctrl+Shift+C and Ctrl+Shift+V in your defaults.json.
-        // These two lines additionally bind them to Ctrl+C and Ctrl+V.
-        // To learn more about selection, visit https://aka.ms/terminal-selection
         {
             "command": 
             {
@@ -17,18 +11,13 @@
             "keys": "ctrl+c"
         },
         {
-            "command": "paste",
-            "keys": "ctrl+v"
-        },
-        // Press Ctrl+Shift+F to open the search box
-        {
             "command": "find",
             "keys": "ctrl+shift+f"
         },
-        // Press Alt+Shift+D to open a new pane.
-        // - "split": "auto" makes this pane open in the direction that provides the most surface area.
-        // - "splitMode": "duplicate" makes the new pane use the focused pane's profile.
-        // To learn more about panes, visit https://aka.ms/terminal-panes
+        {
+            "command": "paste",
+            "keys": "ctrl+v"
+        },
         {
             "command": 
             {
@@ -58,7 +47,7 @@
                 "backgroundImageOpacity": 0.20000000000000001,
                 "colorScheme": "Blue Matrix",
                 "commandline": "powershell.exe -NoLogo -NoExit",
-                "fontFace": "Cascadia Code PL",
+                "fontFace": "CaskaydiaCove Nerd Font",
                 "fontSize": 18,
                 "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
                 "hidden": false,
@@ -67,6 +56,7 @@
             },
             {
                 "commandline": "cmd.exe",
+                "fontFace": "Cascadia Code PL",
                 "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
                 "hidden": false,
                 "name": "Command Prompt"
@@ -76,6 +66,12 @@
                 "hidden": false,
                 "name": "Azure Cloud Shell",
                 "source": "Windows.Terminal.Azure"
+            },
+            {
+                "guid": "{2ece5bfe-50ed-5f3a-ab87-5cd4baafed2b}",
+                "hidden": false,
+                "name": "Git Bash",
+                "source": "Git"
             },
             {
                 "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
@@ -155,6 +151,29 @@
             "selectionBackground": "#FFFFFF",
             "white": "#CCCCCC",
             "yellow": "#C19C00"
+        },
+        {
+            "background": "#181818",
+            "black": "#242424",
+            "blue": "#063B8C",
+            "brightBlack": "#4B4B4B",
+            "brightBlue": "#0955FF",
+            "brightCyan": "#3EA8FC",
+            "brightGreen": "#6BC219",
+            "brightPurple": "#FB0050",
+            "brightRed": "#FC1C18",
+            "brightWhite": "#8C00EC",
+            "brightYellow": "#FEC80E",
+            "cursorColor": "#BBBBBB",
+            "cyan": "#2595E1",
+            "foreground": "#EFEFEF",
+            "green": "#5AA513",
+            "name": "Elementary",
+            "purple": "#E40038",
+            "red": "#D71C15",
+            "selectionBackground": "#B5D5FF",
+            "white": "#EFEFEF",
+            "yellow": "#FDB40C"
         },
         {
             "background": "#282C34",
