@@ -98,6 +98,8 @@ Software List
 - Windows Terminal
 - oh-my-posh (https://dev.to/anupa/beautify-your-windows-terminal-1la8, https://www.powershellgallery.com/packages/oh-my-posh/2.0.487)
 - Terminal Font-Face (https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip)
+- fortune
+- cowsay (https://github.com/lukesampson/cowsay-psh) [place on PowerShell Modules]
 - Git
 - Steam
 - Games
