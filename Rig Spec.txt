@@ -23,7 +23,7 @@ Minor Revision -> Others
 
 
 v1.0
-- Processor : Ryzen 5 1500X
+- Processor : AMD Ryzen 5 1500X
 - RAM : 2 x Avexir Core Red 4 GB 2400 MHz
 - Motherboard : ASRock AB350M
 - Graphics Card : Zotac Geforce GTX 1060 3 GB
@@ -31,11 +31,11 @@ v1.0
 - HDD : Seagate Barracuda 1TB
 - PSU : Antec VP600P
 - Case : Cube Gaming Luxe
-- Case Fans : 1x Cube Gaming Case Fan Red
+- Case Fans : 1 x Cube Gaming Case Fan Red
 
 
 v1.1
-- Case Fan : 2x Mejec 120mm Case Fan Red
+- Case Fan : 2 x Mejec 120mm Case Fan Red
 
 
 v1.2
@@ -48,6 +48,23 @@ v1.3
 
 v1.4
 - Case : GarisLurus Standard Rev B W/C
+
+
+v1.5
+- Case : Prime A-[K]
+- Case Fan : 3 x Fantech Turbine FB301
+
+
+v1.6
+- Case Fan : 3 x Fantech Turbine FB301
+
+
+v1.7
+- PSU : Super Flower Leadex III Gold 750W
+
+
+v1.8
+- Graphics Card : PowerColor RX 6700 XT Fighter 12GB
 
 
 Maintainance
